@@ -1,0 +1,20 @@
+# Site settings
+title: "On Computer Science, Theology, and Church History"
+author: "Elliott R. Pardee"
+description: "This is the blog of an aspiring computer scientist with an intense interest in theology and church history, including the philosophy that comes with it."
+keywords: "Software Engineering, Mathematics, Philosophy, Programming, Theology, Orthodoxy, History"
+biography: "I am an Orthodox Christian and aspiring computer scientist. My particular interest is in bridging the gap between technology and the Church by providing fast, efficient web services."
+colophon: "© MMXVI — MMXIX by Elliott R. Pardee.<br>Content available under <a href='http://creativecommons.org/licenses/by-nc-sa/4.0/'>Creative Commons (BY-NC-SA)</a> unless otherwise noted.<br>This site is hosted at <a href='https://pages.github.com/'>Github Pages</a> and created with <a href='http://jekyllrb.com/'>Jekyll</a>."
+
+baseurl: ""
+url: "https://vypr.xyz"
+
+twitter_username: vyprrr
+github_username: vypr
+linkedin_username: vyprrr
+google-analytics: UA-82182108-1
+
+simple_search: https://google.com/search
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:day/:title/

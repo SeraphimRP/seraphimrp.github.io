@@ -1,0 +1,8 @@
+---
+layout: post
+title: "{{title}}"
+date: {{date}}
+comments: true
+external-url:
+categories: {{category}}
+---

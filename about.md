@@ -4,7 +4,7 @@ date: 2018-07-18T03:02:05-05:00
 layout: page
 ---
 
-My legal name is Elliott Pardee. However, I use my (to-be) chrismation name, Seraphim. I'm 20 years old. I live with my wonderful girlfriend, Mosha, in Philadelphia, PA. I was born in Port Huron, MI. I am an Orthodox Christian, aspiring computer scientist, and aspiring husband and father.
+My legal name is Elliott Pardee. However, I use my (to-be) chrismation name, Seraphim. I'm 20 years old. I live with my wonderful girlfriend, Mosha, outside of Philadelphia, PA. I was born in Port Huron, MI. I am an Orthodox Christian, aspiring computer scientist, and aspiring husband and father.
 
 ## Projects
 
@@ -45,24 +45,28 @@ I believe the Bible is **infallible** in matters of doctrine, historical account
 
 On **gifts of the Holy Spirit**, I am **continuationist**. However, this does not mean that the average person can start speaking in tongues immediately following conversion. Gifts of the Holy Spirit are more prevalent through sanctification, as we see with many saints having the gift of prophesy.
 
-In regards to how I feel about a **literal millennium**, I am **amillennialist**. I do find myself **sympathetic to postmillennialism**.
+In regards to how I feel about a **literal millennium**, I am **amillennialist**. Nonetheless, I do find myself **sympathetic to postmillennialism**.
 
 Finally, the issue dividing the Oriental churches from the Eastern: **Christology**. I find both miaphysitism and Chalcedon's definition to be agreeing with each other, but from different perspectives. Language use aside, I have found no disagreement with Orientals about Christology.
 
 ### Music
 
-  - Genres: Metal, post-hardcore, punk, post-/grunge, hip hop, electronic
-  - Favorite Artists
-      - Heavy metal: Avenged Sevenfold, Disturbed
-      - Metalcore: Killswitch Engage, early Avenged Sevenfold, Bullet For My Valentine
-      - Nu metal: Linkin Park, Slipknot
-      - Other rock: My Chemical Romance, Rise Against, Dope, The Offspring, Crossfade, Breaking Benjamin, Seether, Foo Fighters, Three Days Grace, Megadeth, Anthrax
-      - Hip hop: Kendrick Lamar, Logic, J. Cole, Eminem, Kid Cudi, Chance The Rapper, Childish Gambino, Atmosphere, Macklemore, Lil Dicky, Run The Jewels
-      - Electronic: deadmau5, Daft Punk, Haywyre, Swedish House Mafia, Knife Party, Stromae
-  - Hardware
-      - Bass: Ibanez SoundGear SR300EB
-      - Electric guitar: Ibanez GIO GS171
-      - Microphone: Blue Snowball
-  - Software
-      - DAW: Ableton Live 10
-      - VSTs: Massive, Serum, Reaktor
+I would consider myself an **audiophile** in the sense that music plays a very important role in my life. It feels as though I've had a soundtrack to my life, and I associate songs to various times in my life when I had listened to them the most.
+
+While I listen to many genres, the majority of what I listen to ends up somewhere around **metal, post-hardcore, punk, post-/grunge, hip hop, and electronic** music.
+
+My favorite artists from different genres, but still keeping it broad:
+
+- Heavy metal: Avenged Sevenfold, Disturbed
+- Metalcore: Killswitch Engage, early Avenged Sevenfold, Bullet For My Valentine
+- Nu metal: Linkin Park, Slipknot
+- Other rock: My Chemical Romance, Rise Against, Dope, The Offspring, Crossfade, Breaking Benjamin, Seether, Foo Fighters, Three Days Grace, Megadeth, Anthrax
+- Hip hop: Kendrick Lamar, Logic, J. Cole, Eminem, Kid Cudi, Chance The Rapper, Childish Gambino, Atmosphere, Macklemore, Lil Dicky, Run The Jewels
+- Electronic: deadmau5, Daft Punk, Haywyre, Swedish House Mafia, Knife Party, Stromae
+
+Being musically-inclined, I also play **bass guitar** and am learning **electric guitar and piano**. I own a **Ibanez SoundGear SR300EB** bass and a **Ibanez GIO GS171** guitar. I record using **Ableton Live 10** and a **Blue Snowball** microphone. I also try my hand at producing hip hop beats, where I use VSTs like **Massive, Serum, and Reaktor**.
+
+Here are some songs that I've produced:
+
+<a href="http://www.youtube.com/watch?v=47YyPQK8614" alt="we're still dreaming by vypr">**we're still dreaming**   
+<img src="http://img.youtube.com/vi/47YyPQK8614/0.jpg" alt="we're still dreaming by vypr" width="120px"></a>

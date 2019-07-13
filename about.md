@@ -68,5 +68,5 @@ Being musically-inclined, I also play **bass guitar** and am learning **electric
 
 Here are some songs that I've produced:
 
-<a href="http://www.youtube.com/watch?v=47YyPQK8614" alt="we're still dreaming by vypr">**we're still dreaming**   
-<img src="http://img.youtube.com/vi/47YyPQK8614/0.jpg" alt="we're still dreaming by vypr" width="120px"></a>
+<a href="https://www.youtube.com/watch?v=47YyPQK8614" alt="we're still dreaming by vypr">**we're still dreaming**   
+<img src="https://img.youtube.com/vi/47YyPQK8614/0.jpg" alt="we're still dreaming by vypr" width="120px"></a>

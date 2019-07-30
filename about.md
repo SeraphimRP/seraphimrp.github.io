@@ -4,7 +4,7 @@ date: 2018-07-18T03:02:05-05:00
 layout: page
 ---
 
-My legal name is Elliott Pardee. However, I use my (to-be) confirmation name, Solanus. I'm 20 years old. I live in my hometown, Port Huron, MI. I am a Catholic inquirer, aspiring computer scientist, and aspiring servant of Christ.
+My legal name is Elliott Pardee. However, I use my (to-be) chrismation name, Seraphim. I'm 20 years old. I live with my wonderful girlfriend, Mosha, outside of Philadelphia, PA. I was born in Port Huron, MI. I am an Orthodox Christian, aspiring computer scientist, and aspiring husband and father.
 
 ## Projects
 
@@ -27,7 +27,15 @@ I prefer **colder temperatures over hotter ones**, I will typically keep tempera
 
 ### Religion/Theology
 
-As mentioned earlier, I am a **Catholic inquirer**. After some discernment, I believe my patron saint is **Blessed Solanus Casey**, whose name I will take after and whose life I will strive to imitate. **Blessed Solanus, pray for me.**
+As mentioned earlier, I am an **Eastern Orthodox Christian**. As I have yet to join a parish and become a catechumen, **I do not have a jurisdiction**. After some discernment, I believe my patron saint is **Saint Seraphim of Sarov**, whose name I will take after and whose life I will strive to imitate. **Saint Seraphim, pray for me.**
+
+Being the developer of BibleBot, this didn't come without a **fascination with the Bible**. I find translations interesting in and of themselves, but that doesn't imply that I don't have favorites. Out of the translations available, my rankings are:
+
+1. Orthodox Study Bible - While this may appear biased initially, I find the Septuagint OT much more pleasurable to read than the Masoretic Text. If I could, I'd strip away all the study notes and pages in order to have a nice pocket Bible of just the unique text and translation used.
+2. RSV (*with Apocrypha*) - The RSV was the first modern English translation to consider the Orthodox usage. With the successor NRSV, these are the only Bibles with the full Orthodox canon (including 4 Maccabees, only accepted in the Georgian Orthodox Church). While I would endorse the NRSV just as equally, I find the gender-neutral language to become a burden in many places where it shouldn't be.
+3. NKJV - I enjoy the Psalms/Proverbs and the Byzantine text used in the NT. I own a pocket NKJV and it does well on-the-go.
+
+Of course, this only scratches the surface.
 
 Next is my **theological stances**. This doesn't go too deep beyond general theology, but if I find ever a need to add more, I'll be sure to do so.
 
@@ -39,7 +47,7 @@ On **gifts of the Holy Spirit**, I am **continuationist**. However, this does no
 
 In regards to how I feel about a **literal millennium**, I am **amillennialist**. Nonetheless, I do find myself **sympathetic to postmillennialism**.
 
-Finally, the issue dividing the Oriental churches from the rest: **Christology**. I find both miaphysitism and Chalcedon's definition to be agreeing with each other, but from different perspectives. Language use aside, I have found no disagreement with Orientals about Christology.
+Finally, the issue dividing the Oriental churches from the Eastern: **Christology**. I find both miaphysitism and Chalcedon's definition to be agreeing with each other, but from different perspectives. Language use aside, I have found no disagreement with Orientals about Christology.
 
 ### Music
 

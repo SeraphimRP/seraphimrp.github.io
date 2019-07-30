@@ -4,7 +4,7 @@ date: 2018-07-18T03:02:05-05:00
 layout: page
 ---
 
-My legal name is Elliott Pardee. However, I use my (to-be) chrismation name, Seraphim. I'm 20 years old. I live with my wonderful girlfriend, Mosha, outside of Philadelphia, PA. I was born in Port Huron, MI. I am an Orthodox Christian, aspiring computer scientist, and aspiring husband and father.
+My legal name is Elliott Pardee. However, I use my (to-be) chrismation name, Seraphim. I'm 20 years old. I live in Port Huron, MI. I am an Orthodox Christian, aspiring computer scientist, and aspiring servant of Christ.
 
 ## Projects
 

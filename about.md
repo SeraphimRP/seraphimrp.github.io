@@ -25,6 +25,8 @@ I would describe my disposition in life as **optimistic realism**. I hope for th
 
 I prefer **colder temperatures over hotter ones**, I will typically keep temperatures around **62-70&deg; F (16-21&deg; C / 289-294&deg; K)**. Preferred vacation spots include **forests, mountains, and anything in between**.
 
+---
+
 ### Religion/Theology
 
 As mentioned earlier, I am an **Eastern Orthodox Christian**. As I have yet to join a parish and become a catechumen, **I do not have a jurisdiction**. After some discernment, I believe my patron saint is **Saint Seraphim of Sarov**, whose name I will take after and whose life I will strive to imitate. **Saint Seraphim, pray for me.**
@@ -48,6 +50,8 @@ On **gifts of the Holy Spirit**, I am **continuationist**. However, this does no
 In regards to how I feel about a **literal millennium**, I am **amillennialist**. Nonetheless, I do find myself **sympathetic to postmillennialism**.
 
 Finally, the issue dividing the Oriental churches from the Eastern: **Christology**. I find both miaphysitism and Chalcedon's definition to be agreeing with each other, but from different perspectives. Language use aside, I have found no disagreement with Orientals about Christology.
+
+---
 
 ### Music
 

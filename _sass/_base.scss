@@ -279,10 +279,12 @@ footer, .navbar {
     margin-left: .25em;
     margin-bottom: .8em;
     transition: color 400ms;
+    border: 1px solid rgb(35, 169, 199);
+    padding: 7px;
 
     &:hover {
       color: $alt-color !important;
-      background-color: transparent !important;
+      background-color: rgb(235, 235, 235) !important;
     }
   }
 }

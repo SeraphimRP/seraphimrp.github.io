@@ -4,9 +4,7 @@ date: 2019-08-27
 layout: page
 ---
 
-## Bibliography on Eastern Orthodox Mysticism and Spirituality
-
-### I. Introduction: Some Standard Works on Eastern Spirituality
+## I. Introduction: Some Standard Works on Eastern Spirituality
 
 - Louis Bouyer, *A History of Christian Spirituality*, Vol. I: *The Spirituality of the New Testament and the Fathers*, and III: *Orthodox Spirituality and Protestant and Anglican Spirituality*, tr. M. P. Ryan (2nd printing, NY:1982).
 - Olivier Cl&eacute;ment, *The Roots of Christian Mysticism: Text and Commentary*, tr. T. Berkeley (NY:1995).
@@ -20,10 +18,10 @@ layout: page
 - Bishop Kallistos Ware, *The Orthodox Way* (Crestwood, NY:rev. ed. 1998)
 
 
-### II. Scripture, Asceticism/Mysticism, Jewish Apocalyptic, and Early Christianity
+## II. Scripture, Asceticism/Mysticism, Jewish Apocalyptic, and Early Christianity
 
 
-#### A. Source Texts
+### A. Source Texts
 
 
 - Bible with Deuterocanonical Books
@@ -39,7 +37,7 @@ layout: page
 - Vincent L. Wimbush, ed., *Ascetic Behavior in Greco-Roman Antiquity: A Sourcebook* (Minneapolis:1990)
 
 
-#### B. Selected Studies
+### B. Selected Studies
 
 
 - Antonio Acerbi, *L'Ascensione di Isaia: Christologia e profetismo in Siria nei primi decenni del II Secolo* (Milan:1989)
@@ -106,9 +104,9 @@ layout: page
 - Jean Marcel Vincent, "Aspekte der Begegnung mit Gott im alten Testament: Die Erfahrung der g&ouml;ttlichen Gegenwart im Schauen Gottes", *Revue biblique* 103 (1996) 5-39
 - Moshe Weinfeld, *Kabod*, in *Theological Dictionary of the Old Testament*, ed. E. J. Botterwick, tr. D. E. Green (Grand Rapids:1995) vol. VII:22-38
 
-### III. The Fourth Century: The Imperial Church and the Emergence of Monasticism
+## III. The Fourth Century: The Imperial Church and the Emergence of Monasticism
 
-#### A. Source Texts
+### A. Source Texts
 
 - Ammonas, *The Letters of Ammonas*, tr. Derwas Chitty, rev. tr. Sebastian Brock (Fairacres, Oxford:1983)
 - Anthony, *The Letters of St. Antony: Monasticism and the Making of a Saint*, ed. and tr. Samuel Rubensen (Minneapolis:1995)
@@ -129,7 +127,7 @@ layout: page
 - *The Lives of the Desert Fathers* (=*Historia Monachorum in Aegypto*), tr. Norman Russell (Kalamazoo:1981)
 - Theodoret of Cyrrhus, *History of the Monks of Syria*, tr. E. M. Price (Kalamazoo:1985)
 
-#### B. Selected Studies
+### B. Selected Studies
 
 - David Amand de Mendieta, *L'asc&egrave;se monastique de Saint Basile: Essai historique* (Maredsous:1948)
 - Hans-Veit Beyer, "Die Lichtlehre der M&ouml;nche des vierzehnten und des vierten Jahrhunderts er&ouml;rtet am Beispiel des Gregorios Sina&iuml;tes, des Evagrios Pontikos, und des Pseudo-Makarios/Symeon", *Jahrbuch des &ouml;sterreichischen Byzantinistik* 31.1 (1981) 473-512
@@ -197,9 +195,9 @@ layout: page
 - Hugh Wybrew, *The Orthodox Liturgy: The Development of the Eucharistic Liturgy in the Byzantine Rite* (Crestwood, NY:1989)
 
 
-### IV. Fifth Century to the Present: Icons, Hesychasts and the Jesus Prayer
+## IV. Fifth Century to the Present: Icons, Hesychasts and the Jesus Prayer
 
-#### A. Source Texts, Part I: Byzantine era
+### A. Source Texts, Part I: Byzantine era
 
 - *Barsanuphius and John: Questions and Answers*, ed. and tr. Derwas Chitty, *Patrologia Orientalis* 31:449-661 [124 of over 800 extant letters, early sixth century]
 - Nicholas Cabasilas, *Commentary on the Divine Liturgy*, tr. J. M. Hussey and P. A. McNulty (London:1966)
@@ -228,7 +226,7 @@ layout: page
 - Theoleptos of Philadelphia, *The Life and Letters of Theoleptos of Philadelphia*, tr. with introduction by Angela C. Hero (Brookline, MA:1994)
 
 
-#### A. Source Texts, Part II: Some 18th and 19th century sources
+### A. Source Texts, Part II: Some 18th and 19th century sources
 
 
 - *Holy Women of Russia: The Lives of Five Orthodox Women*, tr. Brenda Meehan (NY:1993) [selected from 19th century devotional literature]
@@ -238,7 +236,7 @@ layout: page
 - Theophan the Recluse, *Unseen Warfare, as Edited by Nicodemus of the Holy Mountain and Revised by Theophan the Recluse*, tr. E. Kadloubovsky and G. E. H. Palmer, introduction by H. A. Hodges (Crestwood, NY:1978)
 
 
-#### B. Selected Studies
+### B. Selected Studies
 
 
 - Hilarion Alfeyev, "The Patristic Background of Symeon the New Theologian's Doctrine of Light", *Studia Patristica* 32 (1997) 229-238

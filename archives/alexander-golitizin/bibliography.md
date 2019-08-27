@@ -89,7 +89,6 @@ layout: page
 - Gilles Quispel, "Ezekiel 1:26 in Jewish Mysticism", *Vigiliae christianae* 34 (1980) 1-13
 - ----------------, "The Asclepius: From the Hermetic Lodge in Alexandria to the Greek Eucharist and the Roman Mass", in R. van den Broek and J. Hauegraf, editors, *Gnosis and Hermetism from Antiquity to Modern Times* (Albany:1998) 69-78
 - ----------------, "The Study of Encratism: A Historical Survey", *La Tradizione dell'Enkrateia*, ed. Hugo Bianci (Rome:1985) 35-81
-
 - Michael Ramsey, *The Glory of God and the Transfiguration of Christ* (London:1949, rep.1967)
 - Aline Rousselle, *Porneia: On Desire and the Body in Late Antiquity*, tr. Felicia Pheasant (Oxford/Cambridge MA:1993)
 - Christopher Rowland, *The Open Heaven: A Study of Apocalyptic in Judaism and Early Christianity* (NY:1982)

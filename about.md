@@ -60,8 +60,3 @@ My favorite artists from different genres, but still keeping it broad:
 - Electronic: deadmau5, Daft Punk, Haywyre, Swedish House Mafia, Knife Party, Stromae
 
 Being musically-inclined, I also play **bass guitar** and am learning **electric guitar and piano**. I own a **Ibanez SoundGear SR300EB** bass and a **Ibanez GIO GS171** guitar. I record using **Ableton Live 10** and a **Blue Snowball** microphone. I also try my hand at producing hip hop beats, where I use VSTs like **Massive, Serum, and Reaktor**.
-
-Here are some songs that I've produced:
-
-<a href="https://www.youtube.com/watch?v=47YyPQK8614" alt="we're still dreaming by vypr">**we're still dreaming**   
-<img src="https://img.youtube.com/vi/47YyPQK8614/0.jpg" alt="we're still dreaming by vypr" width="120px"></a>

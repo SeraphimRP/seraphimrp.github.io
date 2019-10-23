@@ -10,6 +10,7 @@ baseurl: ""
 url: "https://vypr.xyz"
 
 twitter_username: vyprrr
+mastodon_url: "https://decentralized.faith/@vypr"
 github_username: vypr
 linkedin_username: vyprrr
 google-analytics: UA-82182108-1

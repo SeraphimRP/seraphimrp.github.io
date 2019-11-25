@@ -4,7 +4,7 @@ date: 2018-07-18T03:02:05-05:00
 layout: page
 ---
 
-My legal name is Elliott Pardee. However, I use my (to-be) chrismation name, Seraphim. I'm 21 years old. I live in Port Huron, MI. I am an Orthodox Christian, aspiring mathematician, and aspiring servant of Christ.
+My birth name is Elliott Pardee. However, I typically use my (to be) chrismation name "Seraphim". I'm 21 years old. I live in Michigan. I am an Orthodox Christian, aspiring mathematician, and aspiring servant of Christ. I work at Planet Fitness as a Member Services Representative.
 
 ## Trivia
 
@@ -20,7 +20,7 @@ I prefer **colder temperatures over hotter ones**, I will typically keep tempera
 
 ### Religion/Theology
 
-As mentioned earlier, I am an **Eastern Orthodox Christian**. As I have yet to join a parish and become a catechumen, **I do not have a jurisdiction**. After some discernment, I believe my patron saint is **Saint Seraphim of Sarov**, whose name I will take after and whose life I will strive to imitate. **Saint Seraphim, pray for me.**
+As mentioned earlier, I am an **Eastern Orthodox Christian**. I am a **catechumen** in the **Orthodox Church of America**. I am in the **Bulgarian Diocese of Toledo** under **Archbishop Alexander (Golitzin)**. After some discernment, I believe my patron saint is **Saint Seraphim of Sarov**, whose name I will take after and whose life I will strive to imitate. **Saint Seraphim, pray for me.**
 
 Being the developer of BibleBot, this didn't come without a **fascination with the Bible**. I find translations interesting in and of themselves, but that doesn't imply that I don't have favorites. Out of the translations available, my rankings are:
 
@@ -60,3 +60,11 @@ My favorite artists from different genres, but still keeping it broad:
 - Electronic: deadmau5, Daft Punk, Haywyre, Swedish House Mafia, Knife Party, Stromae
 
 Being musically-inclined, I also play **bass guitar** and am learning **electric guitar and piano**. I own a **Ibanez SoundGear SR300EB** bass and a **Ibanez GIO GS171** guitar. I record using **Ableton Live 10** and a **Blue Snowball** microphone. I also try my hand at producing hip hop beats, where I use VSTs like **Massive, Serum, and Reaktor**.
+
+---
+
+### Hobbies
+
+I love to learn and I certainly love to give back in the sharing of knowledge. That being said, I'm a **small editor of Wikipedia and OrthodoxWiki**. While I've only got a handful of decent contributions on Wikipedia, the majority of my contributions are fixing typographical/grammatical errors or adding minor clarifications. I'm typically open to teaching anything I know if requested.
+
+Another major hobby of mine is **moderating communities**. In November 2016, I founded **Christcord (formerly The Christianity Discord Server)**, one of the largest Christian Discord servers. That being said, I'm no longer staff or a member of it and I don't encourage anyone to participate there. The community has made drastic turns and it certainly isn't what it used to be. In September 2018, I took on ownership and eventually refounded **Oikonomia, An Orthodox Christian Community** on Discord. I've moderated and even created a handful of insignificant game servers but the only game server I moderate now is [**Exhibition Roleplay's DarkRP**](https://exhibitionrp.com) server.

@@ -4,7 +4,7 @@ title: "A Life Renewed"
 date: 2018-08-27
 comments: true
 external-url:
-categories: Life
+categories: The Archive
 ---
 
 Given that I lost my two previous blog posts regarding my life since dropping out, this will feel a bit out of sync to read if you're reading these chronologically (or through "The Chronology" tag, which tells the whole story **[editor's note: new blog does not have this tag yet]**). I hope that isn't much of an inconvenience.

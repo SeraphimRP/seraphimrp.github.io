@@ -4,7 +4,7 @@ title: "Dropping Out"
 date: 2015-06-19
 comments: true
 external-url:
-categories: The Archive
+categories: "The Archive"
 ---
 
 On January 28th, I made a pretty big life-changing decision. I decided to drop out. I’ll begin by providing some backstory. Around 5th grade I began making a decline in education. I wouldn’t have things done and I wouldn’t have things to turn in, which wasn’t good. I somehow made it out of there but I’m not entirely sure how. Once I left elementary school and got into 6th grade, I had a bit of transition. I went from this content, calm person to someone almost excited for everything that was going on. Maybe it was because of me being excited to get older, or being accomplished, or just feeling a release from a lot of burdens I had during my childhood.

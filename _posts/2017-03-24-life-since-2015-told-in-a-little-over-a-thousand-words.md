@@ -4,7 +4,7 @@ title: "Life Since 2015, Told In (a Little Over) a Thousand Words"
 date: 2017-03-24
 comments: true
 external-url:
-categories: The Archive
+categories: "The Archive"
 ---
 
 #### Introduction

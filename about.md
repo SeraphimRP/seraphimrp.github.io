@@ -4,7 +4,7 @@ date: 2018-07-18T03:02:05-05:00
 layout: page
 ---
 
-My birth name is Elliott Pardee. However, I typically use my (to be) chrismation name "Seraphim". I'm 21 years old. I live in Michigan. I am an Orthodox Christian, aspiring mathematician, and aspiring servant of Christ. I work at Planet Fitness as a Member Services Representative.
+My birth name is Elliott Pardee. However, I typically use my (to be) chrismation name "Seraphim". I'm 21 years old. I live in Michigan. I am an Orthodox Christian, aspiring mathematician, and aspiring servant of Christ.
 
 ## Trivia
 

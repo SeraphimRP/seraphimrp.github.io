@@ -4,6 +4,7 @@ title: "Navigating the Schism as a Layman"
 date: 2020-01-03
 comments: true
 external-url:
+featured-image: https://i.imgur.com/nYm4KQo.jpg
 categories: [Church Affairs]
 ---
 

@@ -26,7 +26,7 @@ The Church of Greece and the Greek Orthodox Patriarchate of Alexandria has chose
 
 The Greek Orthodox Patriarch of Antioch, like many churches, has remained in want of a pan-Orthodox council, which Ecumenical Patriarch Bartholomew I has rejected, as over half the Church did not attend the June 2016 "Holy and Great Council" in Crete.
 
-The Greek Orthodox Patriarch of Jerusalem has attempted to get things moving, inviting the primates of all Orthodox churches to a "fraternal gathering in love"<sup>[[1]]</sup> in the Hashemite Kingdom of Jordan. This move has been supported by the Russian Orthodox Church and the Orthodox Church of the Czech Lands and Slovakia thus far. The Church of Greece has rejected it, saying that only the Ecumenical Patriarch can convene such a council. The Patriarch agrees, which is why he specifically used "fraternal gathering in love" and stated that he honors the Ecumenical Patriarch's temporary situation prerogative in convening councils. Confusing...
+The Greek Orthodox Patriarch of Jerusalem has attempted to get things moving, inviting the primates of all Orthodox churches to a "fraternal gathering in love"<sup>[[1]]</sup> in the Hashemite Kingdom of Jordan. This move has been supported by the Russian Orthodox Church and the Orthodox Church of the Czech Lands and Slovakia thus far. The Church of Greece has rejected it, saying that only the Ecumenical Patriarch can convene such a council. The Patriarch agrees, which is why he specifically used "fraternal gathering in love" and stated that he honors the Ecumenical Patriarch's supposed prerogative in convening councils. Confusing...
 
 ## How did we get here?
 

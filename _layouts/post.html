@@ -2,4 +2,8 @@
 layout: page
 showdate: true
 ---
+{{% if page.featured-image %}}
+<div style="text-align: center; margin-bottom: 50px;">
+  <img src="{{ page.featured-image }}" width="100%">
+</div>
 {{ content }}

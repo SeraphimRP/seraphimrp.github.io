@@ -20,6 +20,9 @@
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <meta property="og:description" content="{{ description | strip_html | condense_spaces | truncate:150 }}">
   <meta property="og:type" content="article">
+  {% if page.feature-image %}}
+  <meta property="og:image" content="{{ page.feature-image }}"
+  {% endif %}
     
   <link rel="stylesheet" href="//brick.a.ssl.fastly.net/PT+Serif:400,400i,700,700i:f">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">

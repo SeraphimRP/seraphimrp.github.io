@@ -18,7 +18,7 @@
   <meta property="og:title" content="{{ page.title }}">
   <meta property="og:site_name" content="Elliott Pardee">
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <meta property="og:description" content="{{ description }}">
+  <meta property="og:description" content="{{ description | strip_html | condense_spaces | truncate:150 }}">
   <meta property="og:type" content="article">
     
   <link rel="stylesheet" href="//brick.a.ssl.fastly.net/PT+Serif:400,400i,700,700i:f">

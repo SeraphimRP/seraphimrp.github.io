@@ -5,7 +5,7 @@
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
-  {% capture description %}{{ page.excerpt }}{% endcapture %}
+  {% capture description %}{{ page.content }}{% endcapture %}
   <meta name="description" content="{{ description | strip_html | condense_spaces | truncate:150 }}" />
 
   {% capture keywords %}{% if page.keywords %}{{ page.keywords }}{% elsif page.title %}{{""}}{% else %}{{ site.keywords }}{% endif %}{% endcapture %}

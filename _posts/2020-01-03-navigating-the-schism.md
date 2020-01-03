@@ -4,7 +4,7 @@ title: "Navigating the Schism as a Layman"
 date: 2020-01-03
 comments: true
 external-url:
-categories: [Eastern Orthodoxy, Church Affairs]
+categories: [Church Affairs]
 ---
 
 Christ is born!

@@ -20,7 +20,7 @@
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <meta property="og:description" content="{{ description | strip_html | condense_spaces | truncate:150 }}">
   <meta property="og:type" content="article">
-  {% if page.feature-image %}}
+  {% if page.featured-image %}
   <meta property="og:image" content="{{ page.feature-image }}"
   {% endif %}
     

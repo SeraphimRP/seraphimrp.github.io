@@ -90,7 +90,7 @@ article {
     font-weight: $base-font-weight;
   }
 
-  > :first-child {
+  > p:first-of-type {
     min-height: 2em + $base-line-height;
 
     &::first-letter {

@@ -40,6 +40,46 @@ In order to achieve the goal of a new autocephalous Ukrainian Church, the Ecumen
 
 While lifting of excommunication is nothing novel, the contention lies in how the schismatics were received. Instead of a typical procedure in vesting the ordained schismatics, the seemingly simple wave of a hand is what changed these once schismatics into canonical deacons, priests, and bishops. We hear nothing of a standard procedure of reception for these groups, which is rather confusing given our strictness toward canonical tradition.
 
+The third detail is the prerogatives of the Ecumenical Patriarchate. There are certain "givens" that the Ecumenical Patriarch claims to have, and some others agree. According to the OrthodoxWiki, these prerogatives are as follows:
+
+1. Equality with [Old] Rome.
+2. The right to hear appeals, upon request.
+3. The right to ordain bishops in areas outside canonical boundaries.
+4. The right to establish stavropegial monasteries wheresoever they desire.
+
+Here's the sources that the EP claims to have these abilities from, respectively:
+
+1. Canon 3 of the Second Council of Constantinople, Canon 28 of the Council of Chalcedon, and Canon 36 of the Council of Trullo.
+2. Canons 9 and 17 of the Council of Chalcedon.
+3. Canon 28 of the Council of Chalcedon.
+4. The Epanagoge, a book of Byzantine law in existence around 886.
+
+While a portion of these sources are understood and accepted by the Orthodox Church as a whole, there are two that are not, that of Canon 28 of the Council of Chalcedon and the Epanagoge.
+
+### Canon Confusion
+
+Canon 28 of the Council of Chalcedon states as follows:
+
+> Following in all things the decisions of the holy Fathers, and acknowledging the canon, which has been just read, of the One Hundred and Fifty Bishops beloved-of-God (who assembled in the imperial city of Constantinople, which is New Rome, in the time of the Emperor Theodosius of happy memory), we also do enact and decree the same things concerning the privileges of the most holy Church of Constantinople, which is New Rome. For the Fathers rightly granted privileges to the throne of old Rome, because it was the royal city. And the One Hundred and Fifty most religious Bishops, actuated by the same consideration, gave equal privileges (ἴσα πρεσβεῖα) to the most holy throne of New Rome, justly judging that the city which is honoured with the Sovereignty and the Senate, and enjoys equal privileges with the old imperial Rome, should in ecclesiastical matters also be magnified as she is, and rank next after her; so that, in the Pontic, the Asian, and the Thracian dioceses, the metropolitans only and such bishops also of the Dioceses aforesaid as are among the barbarians, should be ordained by the aforesaid most holy throne of the most holy Church of Constantinople; every metropolitan of the aforesaid dioceses, together with the bishops of his province, ordaining his own provincial bishops, as has been declared by the divine canons; but that, as has been above said, the metropolitans of the aforesaid Dioceses should be ordained by the archbishop of Constantinople, after the proper elections have been held according to custom and have been reported to him.
+
+Let's go piece by piece through this.
+
+> the One Hundred and Fifty Bishops beloved-of-God (who assembled in the imperial city of Constantinople, which is New Rome, in the time of the Emperor Theodosius of happy memory)
+
+In the final session of the council of Chalcedon, where the canons were read, it is noted that the delegation to the Pope of Rome had left early on. Whether they anticipated something like this occurring, who knows, but what we do know is that the canonical primus' delegation was not present for the declaration of this council. Later, when St. Pope Leo the Great received word of these canons, he agreed to all of them but this particular canon. The Patriarch of Constantinople in response wrote a letter disavowing the canon, acting as though he had no part in it.
+
+> so that, in the Pontic, the Asian, and the Thracian dioceses, the metropolitans only and such bishops also of the Dioceses aforesaid as are among the barbarians, should be ordained by the aforesaid most holy throne of the most holy Church of Constantinople
+
+The EP understands this to mean that anywhere outside an existing canonical boundary is theirs to administer and ordain bishops for. A territorial "first dibs", if you will. This is also the motivation why the autocephaly of the OCA is not recognized, for example.
+
+For a while, this canon fell into obscurity after Pope Leo rejected it and Constantinople started pretending it never existed. Until around the 1920s when Patriarch Meletius IV (Metaxakis) of Constantiople (1921-1923) started to use the canon as a defense when the Ecumenical Patriarchate assumed the jurisdiction of the Greek Archdiocese in America, then belonging to the Church of Greece. Since then, we find the canon used consistently to lay claim to "barbarian lands" (those not of an existing jurisdiction).
+
+In my findings, this is the canon that determines the Ecumenical Patriarch's authority. If it isn't a valid canon, then the EP lacks the abilities it claims. If it is, then it only logically follows that the EP does these things. However, the Church cannot decide. Those in favor of the EP will say that he definitely has authority through these canons, while others will say that this canon should've remained in obscurity like it has in history up until this point.
+
+Finally, the Epanagoge was a book of law in the Byzantine Empire and given how close the government and the patriarchate were, it is somewhat logically sound. However, the Byzantine Empire does not exist anymore, and this book was actually withdrawn from official use not long after its publication. I haven't read anything about this being used as an actual argument for the EP's prerogatives, but you can at least understand where influence could come in.
+
+### The Creation of the OCU
+
 The creation of the Orthodox Church of Ukraine was done via unification council convened by the Ecumenical Patriarchate, presided by Metropolitan Emmanuel of France. Both the UAOC and UOC-KP were on board with this, seeking to dissolve themselves in a sort of "merge" into this new autocephalous church. In the unification council, they elected as primate Metropolitan Epiphaniy (Dumenko) of Pereyaslav and Bila Tserkva, then part of the UOC-KP.
 
 Mission complete, right? Done and done... so they thought. While the UAOC was entirely on board with unification, the head of the UOC-KP started having second thoughts. You see, Filaret (Denysenko) was the "Patriarch" of the UOC-KP and because of this unification, he was merely a "honorary patriarch." Metropolitan Epiphany *de jure* and *de facto* is the head of the OCU, he merely chooses to give Filaret a say in how it would be ran.
@@ -58,9 +98,18 @@ We should also avoid making hasty generalization and avoid slandering hierarchs 
 
 Finally, **pray**. Pray daily that God will mend the schism and bickering of the churches, that they may come to realize the futility of division and unite. There is only one faith, we should not squander it over borders.
 
-Let us hope that we become one too.
+## Closing Thoughts
 
+There are a few lingering questions on everyone's mind:
+
+1. Who can give autocephaly?
+2. Does the EP rightfully have the authority it claims to have?
+
+These questions are what need to be answered in a pan-Orthodox council. In such a council, clarifications need to be made on who has what authority, because it is not universally understood.
+
+So here we are, biding our time and hoping something good happens. What happens from here is something only God knows, but we must find peace in the uncertainty. We live in a world where one moment we're on the verge of war and another we want to get along. We simply need to pray and wait.
+
+Hopefully, we may be one again.  
 \- Seraphim
 
 [1]: https://orthochristian.com/126874.html
-

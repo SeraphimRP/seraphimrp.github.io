@@ -6,19 +6,19 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
   {% capture description %}{{ page.content }}{% endcapture %}
-  <meta name="description" content="{{ description | strip_html | condense_spaces | truncate:150 }}" />
+  <meta name="description" content="{{ description | strip_html | condense_spaces | truncate:250 }}" />
 
   {% capture keywords %}{% if page.keywords %}{{ page.keywords }}{% elsif page.title %}{{""}}{% else %}{{ site.keywords }}{% endif %}{% endcapture %}
   <meta name="keywords" content="{{ keywords | strip_html | condense_spaces }}" />
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
-  <span itemprop='author'><meta name="author" content="{{ site.author }}"><span itemprop='author'></span>
+  <span itemprop='author'><meta name="author" content="{{ site.author }}"></span>
   
   <meta property="og:title" content="{{ page.title }}">
-  <meta property="og:site_name" content="Elliott Pardee">
+  <meta property="og:site_name" content="Seraphim R. Pardee">
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <meta property="og:description" content="{{ description | strip_html | condense_spaces | truncate:150 }}">
+  <meta property="og:description" content="{{ description | strip_html | condense_spaces | truncate:250 }}">
   <meta property="og:type" content="article">
   {% if page.featured-image %}
   <meta property="og:image" content="{{ page.featured-image }}">

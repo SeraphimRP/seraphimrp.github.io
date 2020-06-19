@@ -4,7 +4,7 @@ date: 2018-07-18T03:02:05-05:00
 layout: page
 ---
 
-My birth name is Elliott Pardee. However, I typically use my (to be) chrismation name "Seraphim". I'm 21 years old. I live in Michigan. I am an Orthodox Christian and aspiring servant of Christ.
+My birth name is Elliott Pardee. However, I typically use my name in the Church, "Seraphim". I'm 21 years old. I live in Michigan. I am an Orthodox Christian and aspiring servant of Christ.
 
 ## Trivia
 
@@ -20,7 +20,7 @@ I prefer **colder temperatures over hotter ones**, I will typically keep tempera
 
 ### Religion/Theology
 
-As mentioned earlier, I am an **Eastern Orthodox Christian**. I am a **catechumen** in the **Orthodox Church of America**. I am in the **Bulgarian Diocese of Toledo** under **Archbishop Alexander (Golitzin)**. After some discernment, I believe my patron saint is **Saint Seraphim of Sarov**, whose name I will take after and whose life I will strive to imitate. **Saint Seraphim, pray for me.**
+As mentioned earlier, I am an **Eastern Orthodox Christian**. I am in the **Orthodox Church of America** in the **Bulgarian Diocese of Toledo** under **Archbishop Alexander (Golitzin)**. My patron saint is **Saint Seraphim of Sarov**, whose name I have taken and whose life I will strive to imitate. **Saint Seraphim, pray for me.**
 
 Being the developer of BibleBot, this didn't come without a **fascination with the Bible**. I find translations interesting in and of themselves, but that doesn't imply that I don't have favorites. Out of the translations available, my rankings are:
 

@@ -3,11 +3,9 @@ layout: post
 title: "A Life Renewed"
 date: 2018-08-27
 comments: true
-external-url:
-categories: Archives
 ---
 
-Given that I lost my two previous blog posts regarding my life since dropping out, this will feel a bit out of sync to read if you're reading these chronologically (or through "The Chronology" tag, which tells the whole story **[editor's note: new blog does not have this tag yet]**). I hope that isn't much of an inconvenience.
+Given that I lost my two previous blog posts regarding my life since dropping out, this will feel a bit out of sync to read if you're reading these chronologically. I hope that isn't much of an inconvenience.
 
 Today, I start (well, at this point "have started") college classes after my 3+ year long battle with dropping out (of multiple schools) and depression. I made it. I'm finally in college and I'm achieving my dreams in computer science.
 

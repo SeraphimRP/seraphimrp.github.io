@@ -3,8 +3,6 @@ layout: post
 title: "Where I Am Now"
 date: 2019-12-24
 comments: true
-external-url:
-categories: Updates
 ---
 
 Greetings, everyone. It's been a while.

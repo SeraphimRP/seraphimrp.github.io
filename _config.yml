@@ -1,21 +1,38 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
 # Site settings
-title: "On Computer Science, Theology, and Church History"
+title: "Seraphim R.P."
 author: "Seraphim R. Pardee"
-description: "This is the blog of an aspiring computer scientist with an intense interest in theology and church history, including the philosophy that comes with it."
-keywords: "Computer Science, Philosophy, Programming, Theology, Eastern, Eastern Orthodoxy, Eastern Orthodoxy, Church History, History"
-biography: "I am an Orthodox Christian and aspiring computer scientist. My particular interests are bridging the gap between technology and the Church by providing fast, efficient web services as well as ensuring the privacy and security of those online."
-colophon: "© MMXVI — MMXX by Seraphim R. Pardee.<br>Content available under <a href='http://creativecommons.org/licenses/by-nc-sa/4.0/'>Creative Commons (BY-NC-SA)</a> unless otherwise noted.<br>This site is hosted at <a href='https://pages.github.com/'>Github Pages</a> and created with <a href='http://jekyllrb.com/'>Jekyll</a>."
+author_link: https://vypr.xyz
+author_description: An aspiring computer scientist with an intense interest in theology and church history, including the philosophy that comes with it.
+email: me@thevypr.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is the blog of an aspiring computer scientist with an intense interest in theology and church history, including the philosophy that comes with it.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://vypr.xyz" # the base hostname & protocol for your site
 
-baseurl: ""
-url: "https://vypr.xyz"
+# Picturefill
+# A responsive image polyfill: http://scottjehl.github.io/picturefill/
+picturefill: false
 
-twitter_username: vyprrr
-mastodon_url: "https://decentralized.faith/@vypr"
-github_username: vypr
-linkedin_username: vyprrr
-google-analytics: UA-82182108-1
+# Typography
+# To use, publish a kit and enter the ID here. If you do not wish to use Typekit,
+# leave this ID blank
+typekit_kit_id: kwf5dox
 
-simple_search: https://google.com/search
+# Build settings
+gems: [jekyll-paginate]
 markdown: kramdown
-highlighter: rouge
 permalink: /:year/:month/:day/:title/
+
+# Pagination
+paginate: 5
+
+# Sass
+sass:
+    style: :compressed

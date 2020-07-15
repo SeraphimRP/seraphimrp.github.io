@@ -50,6 +50,11 @@ ul {
     margin-left: 30px;
 }
 
+.pagination ul {
+    list-style-type: none;
+    margin: 15px 0 !important;
+}
+
 * {
     line-height: 1.2em;   
 }

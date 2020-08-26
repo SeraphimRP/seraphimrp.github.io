@@ -4,7 +4,7 @@ date: 2018-07-18T03:02:05-05:00
 layout: page
 ---
 
-My birth name is Elliott Pardee. However, I typically use my name in the Church, "Seraphim". I'm 21 years old. I live in Michigan. I am an Orthodox Christian and aspiring servant of Christ.
+My birth name is Elliott Pardee. However, I typically use my name in the Church, "Seraphim". I'm 22 years old. I live in Michigan. I am an Orthodox Christian and aspiring servant of Christ.
 
 ## Trivia
 

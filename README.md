@@ -1,4 +1,4 @@
-# vypr.github.io
+# xsrp.github.io
 
 My writings, musings, and critiques.
 

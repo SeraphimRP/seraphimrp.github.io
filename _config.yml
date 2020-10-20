@@ -8,9 +8,9 @@
 # Site settings
 title: "Seraphim R.P."
 author: "Seraphim R. Pardee"
-author_link: https://vypr.xyz
+author_link: https://srp.life
 author_description: An aspiring computer scientist with an intense interest in theology and church history, including the philosophy that comes with it.
-email: me@thevypr.com
+email: me@srp.life
 description: > # this means to ignore newlines until "baseurl:"
   This is the blog of an aspiring computer scientist with an intense interest in theology and church history, including the philosophy that comes with it.
 baseurl: "" # the subpath of your site, e.g. /blog

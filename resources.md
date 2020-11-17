@@ -79,8 +79,6 @@ Hello and welcome to my resources page! Here I've collected some various resourc
 * **For the Life of the World: Sacraments and Orthodoxy** by Fr. Alexander Schmemann †
 * **On the Acquisition of the Holy Spirit** by Saint Seraphim of Sarov †
 * **The Way of a Pilgrim and the Pilgrim Continues His Way** by Anonymous † (I suggest the R. M. French translation, just ignore the introduction as it's a bit heretical)
-* **Way of the Ascetics** by Tito Colliander †
-* **The Mystical Theology of the Eastern Church** by Vladimir Lossky †
 
 ### Topical Books
 

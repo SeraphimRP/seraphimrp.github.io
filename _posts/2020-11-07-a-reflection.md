@@ -71,7 +71,7 @@ During the later end of this penance, I founded a company for my long-term side 
 
 I also was able to realign myself toward my occupational and educational goals. Of finishing my degree and working towards great employment. The passion I had for my hobby had fired up again (after a pretty long burnout, I must add).
 
-### Conclusion
+## Conclusion
 
 Today, November 7th, I returned from my penance to Oikonomia. The feeling is rather strange, being without it for so long makes being back in feel foreign. I saw how the server had been in some disarray, which I've addressed but the cleanup will take some time. All in all, I still don't really know how to feel or act in the server. I feel detached but at the same time this was something I enjoyed running for the longest time. Hopefully easing into everything will solve this.
 

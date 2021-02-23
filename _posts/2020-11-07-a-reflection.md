@@ -5,7 +5,7 @@ date: 2020-11-07
 comments: true
 ---
 
-After a 5-week penance from my Orthodox online community, Oikonomia. I've learned a lot about myself, the faith, those in it, real values that I can carry with me through life. I intended on not writing these types of autobiographical posts, but this one I feel is worth sharing. This reflection won't cover just the penance, but the events leading up to now.
+After a 5-week penance from my Orthodox online community, Oikonomia, I've learned a lot about myself, the faith, those in it, real values that I can carry with me through life. I intended on not writing these types of autobiographical posts, but this one I feel is worth sharing. This reflection won't cover just the penance, but the events leading up to now.
 
 ## A Chronology
 

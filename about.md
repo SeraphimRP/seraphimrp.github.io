@@ -59,7 +59,7 @@ My favorite artists from different genres, but still keeping it broad:
 - Hip hop: Kendrick Lamar, Logic, J. Cole, Eminem, Kid Cudi, Chance The Rapper, Childish Gambino, Atmosphere, Macklemore, Lil Dicky, Run The Jewels
 - Electronic: deadmau5, Daft Punk, Haywyre, Swedish House Mafia, Knife Party, Stromae
 
-Being musically-inclined, I also play **bass guitar** and am learning **electric guitar and piano**. I own a **Ibanez SoundGear SR300EB** bass and a **Ibanez GIO GS171** guitar. I record using **Ableton Live 10** and a **Blue Snowball** microphone. I also try my hand at producing hip hop beats, where I use VSTs like **Massive, Serum, and Reaktor**.
+Being musically-inclined, I also play **bass guitar** and am learning **electric guitar, mandolin, and piano**. I own a **Ibanez SoundGear SR300EB** bass and a **Ibanez GIO GS171** guitar. I record using **FL Studio** and a **Blue Snowball** microphone. I also try my hand at producing hip hop beats, where I use VSTs like **Serum**.
 
 ---
 
@@ -67,4 +67,4 @@ Being musically-inclined, I also play **bass guitar** and am learning **electric
 
 I love to learn and I certainly love to give back in the sharing of knowledge. That being said, I'm a **small editor of Wikipedia and OrthodoxWiki**. While I've only got a handful of decent contributions on Wikipedia, the majority of my contributions are fixing typographical/grammatical errors or adding minor clarifications. I'm typically open to teaching anything I know if requested.
 
-Another major hobby of mine is **moderating communities**. In November 2016, I founded **Christcord (formerly The Christianity Discord Server)**, one of the largest Christian Discord servers. That being said, I'm no longer staff or a member of it and I don't encourage anyone to participate there. The community has made drastic turns and it certainly isn't what it used to be. In September 2018, I took on ownership and eventually refounded **Oikonomia, An Orthodox Christian Community** on Discord. I've moderated and even created a handful of insignificant game servers.
+Another major hobby of mine is **moderating communities**. In November 2016, I founded **Christcord (formerly The Christianity Discord Server)**, one of the largest Christian Discord servers. That being said, I'm no longer staff or a member of it and I don't encourage anyone to participate there. The community has made drastic turns and it certainly isn't what it used to be. In September 2018, I took on ownership and eventually refounded **Hesychia (formerly Oikonomia)** on Discord. I've moderated and even created a handful of insignificant game servers.

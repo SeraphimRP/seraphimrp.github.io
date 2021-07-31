@@ -1,0 +1,26 @@
+baseURL = "https://srp.life/"
+languageCode = "en-us"
+title = "Seraphim R.P."
+paginate = 8
+theme = "minima"
+
+[author]
+    author = "Seraphim R.P."
+    slogon = "An Orthodox Christian and software engineer." # "slogon", really?
+    description = "Seraphim R.P. is an Orthodox Christian and software engineer."
+
+[params]
+    iam = "I am"
+    comment = "disqus"
+
+[menu]
+    [[menu.main]]
+        identifier = "home"
+        name = "Home"
+        url = "/"
+        weight = 1
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+        weight = 2

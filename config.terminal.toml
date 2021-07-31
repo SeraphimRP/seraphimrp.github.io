@@ -9,7 +9,7 @@ disqusShortname = "seraphimrp"
 [params]
     contentTypeName = "posts"
     themeColor = "nord"
-    showMenuItems = 4
+    showMenuItems = 9
     showLanguageSelector = false
     fullWidthTheme = false
     centerTheme = true
@@ -34,30 +34,36 @@ disqusShortname = "seraphimrp"
         readOtherPosts = "[read other posts]"
         newerPosts = "[newer posts]"
         olderPosts = "[older posts]"
-        missingContentMessage = "Page Not Found"
-        missingBackButtonLabel = "[back to home page]"
+        missingContentMessage = "Content not found. You can pray to St. Phanourios to help you find what you are looking for."
+        missingBackButtonLabel = "[go home]"
 
         [languages.en.params.logo]
             logoText = "Seraphim R.P."
         
         [languages.en.menu]
-	    [[languages.en.menu.main]]
-	        identifier = "home"
-		name = "[home]"
-		url = "/"
-		weight = 1
+            [[languages.en.menu.main]]
+                identifier = "home"
+                name = "[home]"
+                url = "/"
+                weight = 1
             [[languages.en.menu.main]]
                 identifier = "about"
                 name = "[about]"
                 url = "/about"
-		weight = 2
-	    [[languages.en.menu.main]]
-	        identifier = "projects"
-		name = "[projects]"
-		url = "/projects"
-		weight = 3
-	    [[languages.en.menu.main]]
-	        identifier = "resources"
-		name = "[resources]"
-		url = "/resources"
-		weight = 4
+                weight = 2
+            [[languages.en.menu.main]]
+                identifier = "projects"
+                name = "[projects]"
+                url = "/projects"
+                weight = 3
+            [[languages.en.menu.main]]
+                identifier = "resources"
+                name = "[resources]"
+                url = "/resources"
+                weight = 4
+            [[languages.en.menu.main]]
+                identifier = "links"
+                name = "[links]"
+                url = "/links"
+                weight = 5
+        

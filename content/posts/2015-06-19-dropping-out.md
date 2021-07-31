@@ -23,13 +23,13 @@ While I had my friends online, I only had few left physically. Life was becoming
 
 I just had to get this off my chest.
 
-<hr>
+---
 
 ## Editor's Note
 
 Here's the comments I received when I wrote the post (click for full size):
 
-<img src="https://i.imgur.com/w2SwA0v.png">
+![comment 1](https://i.imgur.com/w2SwA0v.png)
 
-<img src="https://i.imgur.com/UOBiRWH.png">
+![comment 2](https://i.imgur.com/UOBiRWH.png)
 <small>(not the same Chris mentioned in this post)</small>

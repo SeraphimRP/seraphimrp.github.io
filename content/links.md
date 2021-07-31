@@ -32,11 +32,11 @@ noComment: true
 
 | **fren** | **link** |
 |---|---|
-| Patrick Louis (venam) | https://venam.nixers.net/ |
-| Martin Dørum (mort) | https://mort.coffee/ |
-| Antonio Tauro (eyenx) | https://eyenx.ch/ |
-| Andrew Harrison (xero) | https://andrew.harrison.nu/ |
-| Eduardo Lavaque (greduan) | https://greduan.com/ |
-| rocx | https://rocx.rocks/
-| neeasade | http://neeasade.net/ |
-| kirby | https://github.com/kirbyUK |
+| Patrick Louis (venam) | <https://venam.nixers.net/> |
+| Martin Dørum (mort) | <https://mort.coffee/> |
+| Antonio Tauro (eyenx) | <https://eyenx.ch/> |
+| Andrew Harrison (xero) | <https://andrew.harrison.nu/> |
+| Eduardo Lavaque (greduan) | <https://greduan.com/> |
+| rocx | <https://rocx.rocks/>
+| neeasade | <http://neeasade.net/> |
+| kirby | <https://github.com/kirbyUK> |

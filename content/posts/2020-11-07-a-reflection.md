@@ -77,5 +77,5 @@ Today, November 7th, I returned from my penance to Oikonomia. The feeling is rat
 
 I'm glad to be back, but I feel I have more work to do than when I left, for the better and the worse. If you've made it this far, thanks for reading. Writing is cathartic and setting it free is as well.
 
-Blessings,   
+Blessings,  
 Seraphim

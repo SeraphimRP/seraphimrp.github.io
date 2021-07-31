@@ -1,0 +1,63 @@
+baseURL = "https://srp.life/"
+languageCode = "en-us"
+title = "Seraphim R.P."
+paginate = 8
+rssLimit = 20
+theme = "terminal"
+disqusShortname = "seraphimrp"
+
+[params]
+    contentTypeName = "posts"
+    themeColor = "nord"
+    showMenuItems = 4
+    showLanguageSelector = false
+    fullWidthTheme = false
+    centerTheme = true
+    favicon = "favicon.ico"
+    showLastUpdated = false
+    # oneHeadingSize = false
+
+[params.twitter]
+    creator = "SeraphimRP"
+    site = "https://srp.life"
+
+[languages]
+    [languages.en]
+        languageName = "English"
+        title = "Seraphim R.P."
+        subtitle = "An Orthodox Christian software engineer."
+        owner = "Seraphim R.P."
+        keywords = ""
+        copyright = "© Seraphim R.P."
+        menuMore = "[show more]"
+        readMore = "[read more]"
+        readOtherPosts = "[read other posts]"
+        newerPosts = "[newer posts]"
+        olderPosts = "[older posts]"
+        missingContentMessage = "Page Not Found"
+        missingBackButtonLabel = "[back to home page]"
+
+        [languages.en.params.logo]
+            logoText = "Seraphim R.P."
+        
+        [languages.en.menu]
+	    [[languages.en.menu.main]]
+	        identifier = "home"
+		name = "[home]"
+		url = "/"
+		weight = 1
+            [[languages.en.menu.main]]
+                identifier = "about"
+                name = "[about]"
+                url = "/about"
+		weight = 2
+	    [[languages.en.menu.main]]
+	        identifier = "projects"
+		name = "[projects]"
+		url = "/projects"
+		weight = 3
+	    [[languages.en.menu.main]]
+	        identifier = "resources"
+		name = "[resources]"
+		url = "/resources"
+		weight = 4

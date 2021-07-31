@@ -1,0 +1,29 @@
+baseURL = "https://srp.life/"
+languageCode = "en-us"
+title = "Seraphim R.P."
+paginate = 8
+theme = "m10c"
+
+[params]
+    author = "Seraphim R.P."
+    description = "Seraphim R.P. is an Orthodox Christian and software engineer."
+
+    [params.style]
+        darkestColor = "#2E3440"
+        darkColor = "#3B4252"
+        lightColor = "#D8DEE9"
+        lightestColor = "#E5E9F0"
+        primaryColor = "#8FBCBB"
+    
+
+[menu]
+    [[menu.main]]
+        identifier = "home"
+        name = "Home"
+        url = "/"
+        weight = 1
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+        weight = 2

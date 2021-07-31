@@ -1,0 +1,9 @@
+[submodule "themes/m10c"]
+	path = themes/m10c
+	url = https://github.com/vaga/hugo-theme-m10c
+[submodule "themes/minima"]
+	path = themes/minima
+	url = https://github.com/mivinci/hugo-theme-minima
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal

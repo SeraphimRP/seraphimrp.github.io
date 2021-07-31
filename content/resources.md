@@ -78,8 +78,8 @@ Hello and welcome to my resources page! Here I've collected some various resourc
 * **The Orthodox Way** by Metropolitan Kallistos Ware
 * **The Law of God** by Fr. Seraphim Slobodskoy (this is legally free online)
 * **For the Life of the World: Sacraments and Orthodoxy** by Fr. Alexander Schmemann †
-* **On the Acquisition of the Holy Spirit** by Saint Seraphim of Sarov †
-* **The Way of a Pilgrim and the Pilgrim Continues His Way** by Anonymous † (I suggest the R. M. French translation, just ignore the introduction as it's a bit heretical)
+* **On the Acquisition of the Holy Spirit** by Saint Seraphim of Sarov
+* **The Way of a Pilgrim and the Pilgrim Continues His Way** by Anonymous † (I suggest the R. M. French translation, just ignore the introduction as it's a bit secular.)
 
 ### Topical Books
 
@@ -101,21 +101,20 @@ Hello and welcome to my resources page! Here I've collected some various resourc
 ## Blogs
 
 * This one! (duh)
-* **[Writings](http://frederica.com/)** by Khouria Frederica Mathewes-Green
 * **[The Morning Offering](https://blogs.ancientfaith.com/morningoffering/)** by Abbot Tryphon
-* Or any other blogs on Ancient Faith, for the matter.
+* **[The Whole Counsel](https://blogs.ancientfaith.com/wholecounsel/)** by Fr. Stephen De Young
+* **[Glory to God for All Things](https://blogs.ancientfaith.com/glory2godforallthings/)** by Fr. Stephen Freeman
+* **[No Other Foundation](https://blogs.ancientfaith.com/nootherfoundation/)** by Fr. Lawrence Farley
+
+* Or any other blogs on **[Ancient Faith](https://blogs.ancientfaith.com)**, for the matter.
 
 ## Podcasts
 
+* **[Lord of Spirits](https://www.ancientfaith.com/podcasts/lordofspirits)** by Fr. Andrew Stephen Damick and Fr. Stephen De Young
+* **[Amon Sûl](https://www.ancientfaith.com/podcasts/amonsul)** by Fr. Andrew Stephen Damick and Richard Rohlin
 * **[The Areopagus](http://www.ancientfaith.com/podcasts/areopagus)** by Fr. Andrew Stephen Damick and Pastor Michael Landsman
-* **[Roads From Emmaus](http://www.ancientfaith.com/podcasts/emmaus)** by Fr. Andrew Stephen Damick
-* **[Orthodoxy and Heterodoxy](http://www.ancientfaith.com/podcasts/orthodoxyheterodoxy)** by Fr. Andrew Stephen Damick
 * **[Pop Culture Coffee Hour](http://www.ancientfaith.com/podcasts/popculture)** by Steven Christoforou and Christian Gonzalez
-* **[We Are Orthodoxy](http://www.ancientfaith.com/podcasts/weareorthodoxy)** by Steven Christoforou and Christian Gonzalez
-* **[The Patristics Podcast](http://www.ancientfaith.com/podcasts/patristicspodcast)** by Ambrose Andreano and Alvin Rapien
-* **[The Names of Jesus](http://www.ancientfaith.com/podcasts/namesofjesus)** by Fr. Thomas Hopko †
 * **[Speaking the Truth in Love](http://www.ancientfaith.com/podcasts/hopko)** by Fr. Thomas Hopko †
-* **[Worship in Spirit and Truth](http://www.ancientfaith.com/podcasts/spiritandtruth)** by Fr. Thomas Hopko †
 
 -----
 

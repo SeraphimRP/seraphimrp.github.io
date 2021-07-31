@@ -2,6 +2,7 @@
 title: Resources
 date: 2018-08-21T06:04:12-05:00
 layout: page
+noComment: true
 ---
 
 Hello and welcome to my resources page! Here I've collected some various resources and placed them all together in hopes of helping you on your journey to theosis. Provided also is a introduction to Orthodoxy reading list that might help the newcomers looking for what the Church believes and what the Church is (including the history!) If there is anything you think should be on here, shoot me a message!

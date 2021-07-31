@@ -2,6 +2,7 @@
 title: Projects
 date: 2018-08-08T03:49:00-05:00
 layout: page
+noComment: true
 ---
 
 My best and primary project is [BibleBot](https://biblebot.xyz) ([GitHub](https://internal.kerygma.digital/kerygma-digital/biblebot)), a Discord bot for referencing the Bible and other Christian resources. It serves over 25,000 servers with a combined audience of over 1.1 million users. I've founded a non-profit around the project, [Kerygma Digital](https://kerygma.digital), that seeks to provide similar services in an open-source manner.

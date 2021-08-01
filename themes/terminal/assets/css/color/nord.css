@@ -8,7 +8,7 @@
 
 :root {
   --accent: #8FBCBB;
-  --background: color-mod(var(--accent) blend(#2E3440 98%));
+  --background: color-mod(var(--accent) blend(#4C566A 98%));
   --color: #D8DEE9;
   --border-color: rgba(255, 255, 255, .1);
 }

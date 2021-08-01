@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Seraphim R.P.</title>
-    <link>https://srp.life/</link>
-    <description>Recent content on Seraphim R.P.</description>
+    <title>Posts on Seraphim R.P.</title>
+    <link>https://srp.life/posts/</link>
+    <description>Recent content in Posts on Seraphim R.P.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Seraphim R.P.</copyright>
-    <lastBuildDate>Sat, 07 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://srp.life/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Links</title>
-      <link>https://srp.life/links/</link>
-      <pubDate>Sat, 31 Jul 2021 11:10:00 -0400</pubDate>
-      
-      <guid>https://srp.life/links/</guid>
-      <description>Email  me@srp.life (gpg)  IRC  libera.chat: srp (#nixers) unix.chat: srp (#unix)  Social  twitter: @SeraphimRP github: SeraphimRP linkedin: seraphimrp keybase: s_rp reddit: s-rp lobsters: srp hn: SeraphimRP discord: srp#0001 urbit: ~difsel-sorsul   Friends (in no set order)    fren link     Patrick Louis (venam) https://venam.nixers.net/   Martin Dørum (mort) https://mort.coffee/   Antonio Tauro (eyenx) https://eyenx.ch/   Andrew Harrison (xero) https://andrew.</description>
-    </item>
-    
+    <lastBuildDate>Sat, 07 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://srp.life/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Reflection</title>
       <link>https://srp.life/posts/2020-11-07-a-reflection/</link>
@@ -46,35 +37,6 @@ There&amp;rsquo;s that keyword, bishops.</description>
       <description>Greetings, everyone. It&amp;rsquo;s been a while.
 As you might&amp;rsquo;ve read or noticed, these past few years have been all over the place. I won&amp;rsquo;t get into details too greatly like my usual blog posts, because they will no longer be my usual blog posts. What I can say though, is that I&amp;rsquo;m doing better. Not much better, but better nonetheless.
 An update is warranted on everything that&amp;rsquo;s happened and what&amp;rsquo;ll be happening from now.</description>
-    </item>
-    
-    <item>
-      <title>Resources</title>
-      <link>https://srp.life/resources/</link>
-      <pubDate>Tue, 21 Aug 2018 06:04:12 -0500</pubDate>
-      
-      <guid>https://srp.life/resources/</guid>
-      <description>Hello and welcome to my resources page! Here I&amp;rsquo;ve collected some various resources and placed them all together in hopes of helping you on your journey to theosis. Provided also is a introduction to Orthodoxy reading list that might help the newcomers looking for what the Church believes and what the Church is (including the history!) If there is anything you think should be on here, shoot me a message!</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://srp.life/projects/</link>
-      <pubDate>Wed, 08 Aug 2018 03:49:00 -0500</pubDate>
-      
-      <guid>https://srp.life/projects/</guid>
-      <description>My best and primary project is BibleBot (GitHub), a Discord bot for referencing the Bible and other Christian resources. It serves over 30,000 servers with a combined audience of over 1.1 million users. I&amp;rsquo;ve founded a non-profit around the project, Kerygma Digital, that seeks to provide similar services in an open-source manner.
-My secondary project is canon_law (GitHub), a web service for referencing Orthodox canon law. It is not yet finished but all that is lacking is the rest of the content.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://srp.life/about/</link>
-      <pubDate>Wed, 18 Jul 2018 03:02:05 -0500</pubDate>
-      
-      <guid>https://srp.life/about/</guid>
-      <description>My birth name is Elliott Pardee. However, I typically use my name in the Church, &amp;ldquo;Seraphim&amp;rdquo;. I&amp;rsquo;m 22 years old. I live in Michigan. I am an Orthodox Christian and aspiring servant of Christ.
-Trivia Personality My type on the Myers-Briggs Type Indicator seems to be around ISTP. My last two indicators are in the middle, so I can also be in the range of ISTJ, ISFP, or ISFJ. On the Enneagram, I seem to be 6w5 (Enneagram 6 with a Five-Wing).</description>
     </item>
     
     <item>
